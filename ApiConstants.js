@@ -1,4 +1,3 @@
-//environment WEST BEND - wbmi.oktapreview.com
 //OKTA Native App
 export const CLIENT_ID = 'OKTA_APP_CLIENT_ID';
 export const REDIRECT_URI = 'OKTA_APP_REDIRECT_URI';
